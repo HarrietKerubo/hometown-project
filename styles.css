@@ -1,7 +1,7 @@
 body{
     margin: 0;
     text-align: center;
-    font-family: Arial;
+    font-family: 'Yatra One', cursive;
 }
 
 .hero{
@@ -52,6 +52,7 @@ img{
     height: 378px;
     background: #A9C0D2;
     padding-top: 39px;
+    padding-bottom: 39px;
 
    }
 
@@ -93,7 +94,7 @@ h3{
     border-radius: 20px;
     background:#A8DADC;
     margin: 50px auto;
-    width: 400px;
+    width: 500px;
     height: 294px;
     align-items: center;
     padding: 20px;
